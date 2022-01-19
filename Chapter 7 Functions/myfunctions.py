@@ -3,7 +3,7 @@ def main ():
 
 def kitten():
     print("meow")   
-
+#This Prints out meow
 
 """
 def main ():
@@ -37,3 +37,4 @@ def kitten():
 
 
 if __name__ == "__main__":main()
+#This calls the 'main' function
